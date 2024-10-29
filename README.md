@@ -1,4 +1,4 @@
-                                                                                    Wheather Application
+Wheather Application
 
 Description: 
 
