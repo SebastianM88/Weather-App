@@ -11,6 +11,8 @@ The Weather Application is a Java program designed to provide users with instant
 3.	Geolocation API: https://open-meteo.com/en/docs/geocoding-api
 4.	Images used for the Project are located in the „scr-Icons”
 
+![Screenshot 2024-10-29 141322](https://github.com/user-attachments/assets/418835f0-efd1-44b2-9d3c-1af66388fbbb)
+
 •	Technologies Used: 
 
 -	Java 18
@@ -33,3 +35,8 @@ Summary: This class organizes and renders the GUI components, including fields f
 Description: The AppFunctionability class manages the backend operations required to retrieve weather data from an external API. It gathers geographical coordinates for specific locations, pulls corresponding weather data, and offers functions for translating weather codes.
 
 Summary: Serving as the core logic component, this class encompasses methods for obtaining weather data, converting location information, interpreting weather codes into readable formats, and managing API requests. It functions as the intermediary between the GUI and the external data source, ensuring accurate weather data retrieval and display.
+
+Here are some pictures of some tests of the app: 
+![Screenshot 2024-10-29 132859](https://github.com/user-attachments/assets/c5979f5e-e877-4eee-a026-dad805d1acfa)
+![Screenshot 2024-10-29 132911](https://github.com/user-attachments/assets/323a3b4d-26a1-4d28-8c98-0224e4854a47)
+![Screenshot 2024-10-29 133028](https://github.com/user-attachments/assets/c705eb59-b5e3-42ed-8d74-1bf16885aee9)
