@@ -36,7 +36,10 @@ Description: The AppFunctionability class manages the backend operations require
 
 Summary: Serving as the core logic component, this class encompasses methods for obtaining weather data, converting location information, interpreting weather codes into readable formats, and managing API requests. It functions as the intermediary between the GUI and the external data source, ensuring accurate weather data retrieval and display.
 
-Here are some pictures of some tests of the app: 
+Here are some pictures of some tests of the app:
+
 ![Screenshot 2024-10-29 132859](https://github.com/user-attachments/assets/c5979f5e-e877-4eee-a026-dad805d1acfa)
+
 ![Screenshot 2024-10-29 132911](https://github.com/user-attachments/assets/323a3b4d-26a1-4d28-8c98-0224e4854a47)
+
 ![Screenshot 2024-10-29 133028](https://github.com/user-attachments/assets/c705eb59-b5e3-42ed-8d74-1bf16885aee9)
