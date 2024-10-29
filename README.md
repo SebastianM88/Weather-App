@@ -1,6 +1,6 @@
 Wheather Application
 
-Description: 
+ * Description: 
 
 The Weather Application is a Java program designed to provide users with instant, real-time weather data for selected locations. Weather information is obtained through an external API and displayed in a graphical user interface (GUI). Users enter a location, and the application gathers and presents relevant weather details, including temperature, weather conditions, humidity, and wind speed. This documentation outlines the project’s architecture, implemented technologies, and describes the role of each class within the application.
 
