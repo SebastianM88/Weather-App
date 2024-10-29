@@ -14,23 +14,22 @@ The Weather Application is a Java program designed to provide users with instant
 •	Technologies Used: 
 
 -	Java 18
-JSON Simple - Used to parse and read through JSON data
-HTTPURLConnection - Java's built-in library for making HTTP requests to fetch data from external APIs.
+- JSON Simple - Used to parse and read through JSON data
+- HTTPURLConnection - Java's built-in library for making HTTP requests to fetch data from external APIs.
 
 •	Overview of classes
 
 -	Main
-Description:
-The Main class functions as the initial access point of the Weather Application. It is tasked with launching the graphical interface and displaying the primary application window.
-
+Description: The Main class functions as the initial access point of the Weather Application. It is tasked with launching the graphical interface and displaying the primary application window.
 
 -	AppInterface
-Description:
-The AppInterface class defines the graphical user interface (GUI) layout and manages the visual display of weather information for user-specified locations.
-Summary:
-This class organizes and renders the GUI components, including fields for input, labels, buttons, and images. It provides the interface for users to enter location information and refreshes the weather display according to user selections.
+
+Description: The AppInterface class defines the graphical user interface (GUI) layout and manages the visual display of weather information for user-specified locations.
+
+Summary: This class organizes and renders the GUI components, including fields for input, labels, buttons, and images. It provides the interface for users to enter location information and refreshes the weather display according to user selections.
+
 -	 AppFunctionability
-Description:
-The AppFunctionability class manages the backend operations required to retrieve weather data from an external API. It gathers geographical coordinates for specific locations, pulls corresponding weather data, and offers functions for translating weather codes.
-Summary:
-Serving as the core logic component, this class encompasses methods for obtaining weather data, converting location information, interpreting weather codes into readable formats, and managing API requests. It functions as the intermediary between the GUI and the external data source, ensuring accurate weather data retrieval and display.
+  
+Description: The AppFunctionability class manages the backend operations required to retrieve weather data from an external API. It gathers geographical coordinates for specific locations, pulls corresponding weather data, and offers functions for translating weather codes.
+
+Summary: Serving as the core logic component, this class encompasses methods for obtaining weather data, converting location information, interpreting weather codes into readable formats, and managing API requests. It functions as the intermediary between the GUI and the external data source, ensuring accurate weather data retrieval and display.
